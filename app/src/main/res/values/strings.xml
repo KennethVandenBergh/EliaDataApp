@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="disclaimer">Developed by Kenneth Van den Bergh - Data from Elia</string>
+    <string name="wind">Wind power</string>
+    <string name="sun">Solar PV power</string>
+    <string name="rt">RT</string>
+    <string name="id">ID</string>
+    <string name="da">DA</string>
+    <string name="balancing">Balancing</string>
+    <string name="nrv">NRV</string>
+    <string name="mdp">MDP</string>
+    <string name="mip">MIP</string>
+    <string name="si">SI</string>
+    <string name="pos">POS</string>
+    <string name="neg">NEG</string>
+</resources>
